@@ -3,6 +3,8 @@
 
 This is a telegram that provides daily updated information about bike theft in Berlin.
 
+Please note that this is a copy of the original private repo that contains all credentials and is deployed on a web server.
+
 ## Screenshots
 
 ![Bildschirmfoto 2022-12-25 um 10 48 50 PM](https://user-images.githubusercontent.com/66785534/209482814-477d2c79-6215-4597-b427-808f881ee969.png)
